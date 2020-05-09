@@ -1,0 +1,81 @@
+@font-face {
+    font-family: 'Ubuntu';
+    src: url('../fonts/Ubuntu.woff2') format('woff2'),
+        url('../fonts/Ubuntu.woff') format('woff'),
+        url('../fonts/Ubuntu.ttf') format('ttf');
+
+}
+
+
+#titulo {
+    padding-top: 2% !important;
+    padding-bottom: 2% !important;
+}
+
+#titulo h1{
+    font-family: 'Ubuntu','Nunito'!important;
+    font-size: 4rem!important;
+    color: #343a40!important;
+    text-align: center !important;
+}
+
+.grid-item {
+    border-radius: 0%!important;
+    width: 40px!important;
+    height: 40px!important;
+    font-size: .7rem !important;
+    font-weight: 800;
+    text-align: left !important;
+    margin-left: 0 !important;
+    padding-left: 3px !important;
+
+}
+
+.grid-center {
+    margin: 0 auto!important;
+    padding-left: 0!important;
+    padding-right: 0!important;
+}
+
+.btn-menu {
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+}
+
+.check-inicio {
+    color: #28a745!important;
+    text-align: center!important;
+    margin: auto!important;
+}
+
+.check-fim {
+    color: #dc3545!important;
+    text-align: center!important;
+    margin: auto!important;
+}
+
+.check-barreira {
+    color: #428bca!important;
+    text-align: center!important;
+    margin: auto!important;
+}
+
+.checked-inicio {
+    background-color: #28a745!important;
+}
+
+.checked-fim {
+    background-color: #dc3545!important;
+}
+
+.checked-barreira {
+    background-color: #428bca!important;
+}
+
+.checked-caminhando {
+    background-color: #6c757d!important;
+}
+
+.checked-melhor {
+    background-color: #ffc107!important;
+}
