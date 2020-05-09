@@ -214,7 +214,7 @@ function start() {
     "use strict";
     event.preventDefault();
     if(painted) {
-        return alert("Resete para poder executar novamente");
+        return;
     }
     if(inicioXY == null || fimXY == null) {
         return alert("Defina um início e fim");
