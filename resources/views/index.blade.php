@@ -13,6 +13,7 @@
         <link href="css/bootstrap4-toggle.min.css" rel="stylesheet">  
         <script src="js/bootstrap4-toggle.min.js"></script>
         <link rel="stylesheet" href="css/style.css">
+        <link rel="icon" href="img/graphInc.png">
     </head>
     <body>
         <div class="container" id="titulo">
