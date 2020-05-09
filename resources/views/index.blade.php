@@ -37,7 +37,7 @@
                 </div>
                 <div class="btn-group mr-2 grid-center" role="group" >
                   <div>
-                  <label for="algorithm">Algorítimo</label><br>
+                  <label for="algorithm">Algoritmo</label><br>
                   <select id="algorithm" class="form-control">
                       <option value="bfs" selected>Busca em largura</option>
                       <option value="dfs">Busca em profundidade</option>
