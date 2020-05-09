@@ -17,7 +17,7 @@
     </head>
     <body>
         <div class="container" id="titulo">
-            <h1>Graph Searchs</h1>
+            <h1>Graph Search</h1>
         </div>
         <div class="container" id="matriz">
             <div class="btn-toolbar" style="padding-bottom: 20px;">
