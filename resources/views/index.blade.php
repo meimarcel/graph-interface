@@ -445,7 +445,7 @@
         </div>
           <div class="container" style="padding: 20px 0 0 0;">
             <p style="text-align:center;"><strong>Instruções:</strong> Aperte em um dos botões "Inicio", "Fim" ou "Barreira" e depois selecione a área em que você deseja colocar cada componente.</p>
-            <p style="text-align:center;"><strong>Obs:</strong> A primeira busca pode ser um pouco lenta pois a api no heroku pode estar sendo levantada.</p>
+            <p style="text-align:center;"><strong>Obs:</strong> A primeira busca pode ser um pouco lenta pois a api no heroku pode estar sendo inicializada.</p>
           </div>
           <hr style="margin: 0;">
         <footer class="container" style="padding:10px 0; text-align:center;">
@@ -453,6 +453,6 @@
         </footer>
         
         <script src="js/bootstrap.min.js"></script>
-        <script src="js/script.js"></script>
+        <script src="js/all.js"></script>
     </body>
 </html>
